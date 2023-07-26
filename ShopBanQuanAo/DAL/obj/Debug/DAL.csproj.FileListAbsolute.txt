@@ -1,0 +1,32 @@
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\bin\Debug\DAL.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\bin\Debug\DTO.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\obj\Debug\DAL.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\DAL\obj\Debug\DAL.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DAL.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DAL.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DTO.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DTO.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DAL.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DAL.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DTO.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\bin\Debug\DTO.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\DAL\bin\Debug\DAL.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\DAL\bin\Debug\DAL.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\DAL\bin\Debug\DTO.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\DAL\bin\Debug\DTO.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\DAL\obj\Debug\DAL.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\DAL\obj\Debug\DAL.pdb

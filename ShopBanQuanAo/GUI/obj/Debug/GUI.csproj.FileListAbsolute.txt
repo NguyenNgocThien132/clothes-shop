@@ -1,0 +1,113 @@
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\SalesManagemenet.exe.config
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\SalesManagemenet.exe
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\SalesManagemenet.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\BUS.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\DAL.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\DTO.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\BUS.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\DAL.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\bin\Debug\DTO.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmAccount.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmBillInfo.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmEmployee.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmProduct.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.frmStatistic.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.SendMail.resources
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\SalesManagemenet.exe
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\GUI\obj\Debug\SalesManagemenet.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\SalesManagemenet.exe.config
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\SalesManagemenet.exe
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\SalesManagemenet.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\BUS.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DAL.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DTO.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\Guna.UI2.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\BUS.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DAL.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DTO.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmAccount.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmBill.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmBillInfo.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmEmployee.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmMain.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmProduct.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmStatistic.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.SendMail.resources
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\SalesManagemenet.exe
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\SalesManagemenet.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\BUS.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DAL.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DTO.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\Guna.UI2.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\BUS.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DAL.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\DTO.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmMain.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmHoadon.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmChitietHoaDon.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmNhanvien.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmSanPham.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmDanhThu.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmGuiMail.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.frmTrangchu.resources
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\ShopBanQuanAo.exe.config
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\ShopBanQuanAo.exe
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\bin\Debug\ShopBanQuanAo.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\ShopBanQuanAo.exe
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\ShopBanQuanAo.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\ShopBanQuanAo.exe.config
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\ShopBanQuanAo.exe
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\ShopBanQuanAo.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\ShopBanQuanAo.exe
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\ShopBanQuanAo.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\BUS.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\DAL.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\DTO.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\Guna.UI2.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\BUS.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\DAL.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\bin\Debug\DTO.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmHoadon.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmChitietHoaDon.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmNhanvien.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmMain.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmSanPham.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmDanhThu.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmTrangchu.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmGuiMail.resources
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\GUI\obj\Debug\GUI.frmxuatHoaDon.resources

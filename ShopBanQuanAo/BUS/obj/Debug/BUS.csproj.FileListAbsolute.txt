@@ -1,0 +1,40 @@
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\bin\Debug\BUS.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\bin\Debug\DAL.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\bin\Debug\DTO.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\bin\Debug\DAL.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\obj\Debug\BUS.dll
+C:\Users\NGUYEN THANH THIEN\Downloads\SalesManagement-main\SalesManagement\BUS\obj\Debug\BUS.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\BUS.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\BUS.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DAL.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DTO.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DAL.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DTO.pdb
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.dll
+D:\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\BUS.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\BUS.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DAL.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DTO.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DAL.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\bin\Debug\DTO.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.dll
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.pdb
+D:\Đồ án Winform\Quản lý shop bán quần áo - Đề tài 10\ShopBanQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\bin\Debug\BUS.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\bin\Debug\BUS.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\bin\Debug\DAL.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\bin\Debug\DTO.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\bin\Debug\DAL.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\bin\Debug\DTO.pdb
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\obj\Debug\BUS.dll
+D:\Đồ án THHQTCSDL\ShopBanQuanAo\BUS\obj\Debug\BUS.pdb
